@@ -1,0 +1,301 @@
+2022-02-08 23:43:07,529 - mystore -INFO - URL is opened
+2022-02-08 23:43:07,632 - mystore -INFO - Logo is validated
+2022-02-08 23:49:50,341 - mystore -INFO - title validation started
+2022-02-08 23:49:50,536 - mystore -INFO - URL is opened
+2022-02-08 23:49:50,636 - mystore -INFO - Logo is validated
+2022-02-08 23:53:51,692 - mystore -INFO - title validation started
+2022-02-08 23:53:51,909 - mystore -INFO - URL is opened
+2022-02-08 23:53:52,011 - mystore -INFO - Logo is validated
+2022-02-08 23:56:13,783 - mystore -INFO - title validation started
+2022-02-08 23:56:13,839 - mystore -INFO - title is validated
+2022-02-08 23:56:13,957 - mystore -INFO - URL is opened
+2022-02-08 23:56:14,130 - mystore -INFO - Logo is validated
+2022-02-08 23:57:00,821 - mystore -INFO - title validation started
+2022-02-08 23:57:00,884 - mystore -INFO - title is validated
+2022-02-08 23:57:01,003 - mystore -INFO - URL is opened
+2022-02-08 23:57:01,121 - mystore -INFO - Logo is validated
+2022-02-09 13:06:29,005 - mystore -INFO - title validation started
+2022-02-09 13:06:29,224 - mystore -INFO - title is validated
+2022-02-09 13:06:29,798 - mystore -INFO - URL is opened
+2022-02-09 13:06:29,948 - mystore -INFO - Logo is validated
+2022-02-09 13:07:49,121 - mystore -INFO - title validation started
+2022-02-09 13:07:49,238 - mystore -INFO - title is validated
+2022-02-09 13:07:49,310 - mystore -INFO - URL is opened
+2022-02-09 13:07:49,408 - mystore -INFO - Logo is validated
+2022-02-09 13:17:51,125 - mystore -INFO - title validation started
+2022-02-09 13:17:51,214 - mystore -INFO - title is validated
+2022-02-09 13:17:51,337 - mystore -INFO - URL is opened
+2022-02-09 13:17:51,433 - mystore -INFO - Logo is validated
+2022-02-09 13:21:34,961 - mystore -INFO - title validation started
+2022-02-09 13:21:35,036 - mystore -INFO - title is validated
+2022-02-09 13:21:35,165 - mystore -INFO - URL is opened
+2022-02-09 13:21:35,277 - mystore -INFO - Logo is validated
+2022-02-09 13:26:31,091 - mystore -INFO - title validation started
+2022-02-09 13:26:31,163 - mystore -INFO - title is validated
+2022-02-09 13:26:31,272 - mystore -INFO - URL is opened
+2022-02-09 13:26:31,380 - mystore -INFO - Logo is validated
+2022-02-09 13:26:44,974 - mystore -INFO - loginTest
+2022-02-09 13:26:44,977 - mystore -INFO - user is going to click on SignIn
+2022-02-09 13:26:48,158 - mystore -INFO - enter uname and password
+2022-02-09 13:26:48,960 - mystore -INFO - Entered username
+2022-02-09 13:26:49,096 - mystore -INFO - Entered password
+2022-02-09 13:26:51,478 - mystore -INFO - Verifying if user is able to login
+2022-02-09 13:26:51,478 - mystore -INFO - Login is Sucess
+2022-02-09 14:52:41,638 - mystore -INFO - title validation started
+2022-02-09 14:52:41,995 - mystore -INFO - title is validated
+2022-02-09 14:52:42,147 - mystore -INFO - URL is opened
+2022-02-09 14:52:42,253 - mystore -INFO - Logo is validated
+2022-02-09 14:52:54,447 - mystore -INFO - loginTest
+2022-02-09 14:52:54,449 - mystore -INFO - user is going to click on SignIn
+2022-02-09 14:52:57,515 - mystore -INFO - enter uname and password
+2022-02-09 14:52:57,811 - mystore -INFO - Entered username
+2022-02-09 14:52:58,017 - mystore -INFO - Entered password
+2022-02-09 14:53:00,590 - mystore -INFO - Verifying if user is able to login
+2022-02-09 14:53:00,591 - mystore -INFO - Login is Sucess
+2022-02-09 14:53:13,001 - mystore -INFO - loginTest
+2022-02-09 14:53:15,447 - mystore -INFO - enter uname and password
+2022-02-09 14:53:15,748 - mystore -INFO - Entered username
+2022-02-09 14:53:15,951 - mystore -INFO - Entered password
+2022-02-09 14:53:18,029 - mystore -INFO - loginTest
+2022-02-09 14:54:27,928 - mystore -INFO - loginTest
+2022-02-09 14:54:31,390 - mystore -INFO - enter uname and password
+2022-02-09 14:54:31,643 - mystore -INFO - Entered username
+2022-02-09 14:54:31,893 - mystore -INFO - Entered password
+2022-02-09 14:54:34,657 - mystore -INFO - loginTest
+2022-02-09 14:58:19,107 - mystore -INFO - loginTest for order history validation
+2022-02-09 14:58:22,439 - mystore -INFO - enter uname and password
+2022-02-09 14:58:22,735 - mystore -INFO - Entered username
+2022-02-09 14:58:22,913 - mystore -INFO - Entered password
+2022-02-09 15:00:12,100 - mystore -INFO - loginTest for order history validation
+2022-02-09 15:00:15,152 - mystore -INFO - enter uname and password
+2022-02-09 15:00:15,514 - mystore -INFO - Entered username
+2022-02-09 15:00:15,723 - mystore -INFO - Entered password
+2022-02-09 15:03:44,826 - mystore -INFO - loginTest for order history validation
+2022-02-09 15:03:47,844 - mystore -INFO - enter uname and password
+2022-02-09 15:03:48,127 - mystore -INFO - Entered username
+2022-02-09 15:03:48,299 - mystore -INFO - Entered password
+2022-02-09 15:05:15,128 - mystore -INFO - loginTest for order history validation
+2022-02-09 15:05:17,615 - mystore -INFO - enter uname and password
+2022-02-09 15:05:17,920 - mystore -INFO - Entered username
+2022-02-09 15:05:18,095 - mystore -INFO - Entered password
+2022-02-09 15:05:20,363 - mystore -INFO - navigated to homepage
+2022-02-09 15:06:50,027 - mystore -INFO - loginTest for order history validation
+2022-02-09 15:06:52,752 - mystore -INFO - enter uname and password
+2022-02-09 15:06:53,083 - mystore -INFO - Entered username
+2022-02-09 15:06:53,284 - mystore -INFO - Entered password
+2022-02-09 15:06:55,693 - mystore -INFO - navigated to homepage
+2022-02-09 15:06:55,812 - mystore -INFO - order history validated
+2022-02-09 15:06:55,876 - mystore -INFO - wishlist found
+2022-02-09 15:11:43,980 - mystore -INFO - title validation started
+2022-02-09 15:11:44,127 - mystore -INFO - title is validated
+2022-02-09 15:11:44,255 - mystore -INFO - URL is opened
+2022-02-09 15:11:44,357 - mystore -INFO - Logo is validated
+2022-02-09 15:11:56,248 - mystore -INFO - loginTest
+2022-02-09 15:11:56,250 - mystore -INFO - user is going to click on SignIn
+2022-02-09 15:11:59,026 - mystore -INFO - enter uname and password
+2022-02-09 15:11:59,304 - mystore -INFO - Entered username
+2022-02-09 15:11:59,466 - mystore -INFO - Entered password
+2022-02-09 15:12:02,854 - mystore -INFO - Verifying if user is able to login
+2022-02-09 15:12:02,855 - mystore -INFO - Login is Sucess
+2022-02-09 15:12:14,418 - mystore -INFO - loginTest for order history validation
+2022-02-09 15:12:16,842 - mystore -INFO - enter uname and password
+2022-02-09 15:12:17,136 - mystore -INFO - Entered username
+2022-02-09 15:12:17,330 - mystore -INFO - Entered password
+2022-02-09 15:12:19,371 - mystore -INFO - navigated to homepage
+2022-02-09 15:12:19,467 - mystore -INFO - order history validated
+2022-02-09 15:12:19,554 - mystore -INFO - wishlist found
+2022-02-09 16:19:26,176 - mystore -INFO - validated
+2022-02-09 16:22:08,494 - mystore -INFO - validated
+2022-02-09 16:25:35,098 - mystore -INFO - validated
+2022-02-09 16:25:42,973 - mystore -INFO - validated
+2022-02-09 16:26:47,884 - mystore -INFO - validated
+2022-02-09 16:28:59,007 - mystore -INFO - createAccountTest
+2022-02-09 16:29:09,719 - mystore -INFO - createAccountTest
+2022-02-09 16:29:17,390 - mystore -INFO - createAccountTest
+2022-02-09 16:45:23,536 - mystore -INFO - createAccountTest
+2022-02-09 16:45:44,626 - mystore -INFO - createAccountTest
+2022-02-09 16:45:56,076 - mystore -INFO - createAccountTest
+2022-02-09 16:46:30,796 - mystore -INFO - validated
+2022-02-09 16:46:49,972 - mystore -INFO - validated
+2022-02-09 17:05:20,763 - mystore -INFO - productAvailabilityTest
+2022-02-09 17:21:44,677 - mystore -INFO - addToCartTest
+2022-02-09 17:22:24,190 - mystore -INFO - addToCartTest
+2022-02-10 14:17:33,123 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:21:56,154 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:23:11,385 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:24:24,514 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:24:30,743 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:28:35,985 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:28:40,008 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:30:18,311 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:30:24,114 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:35:07,141 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:35:11,967 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:35:16,629 - mystore -INFO - checkoutpage
+2022-02-10 14:41:12,105 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:41:18,146 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:41:22,559 - mystore -INFO - checkoutpage
+2022-02-10 14:41:22,621 - mystore -INFO - valiadte unitprice
+2022-02-10 14:41:22,674 - mystore -INFO - valiadte totalprice
+2022-02-10 14:41:22,674 - mystore -INFO - valiadte totalexpectedprice
+2022-02-10 14:43:39,354 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:43:44,286 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:43:48,783 - mystore -INFO - checkoutpage
+2022-02-10 14:43:48,853 - mystore -INFO - valiadte unitprice
+2022-02-10 14:43:48,901 - mystore -INFO - valiadte totalprice
+2022-02-10 14:43:48,902 - mystore -INFO - valiadte totalexpectedprice
+2022-02-10 14:49:48,504 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:49:54,582 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:49:58,814 - mystore -INFO - checkoutpage
+2022-02-10 14:49:58,862 - mystore -INFO - valiadte unitprice
+2022-02-10 14:49:58,900 - mystore -INFO - valiadte totalprice
+2022-02-10 14:49:58,901 - mystore -INFO - valiadte totalexpectedprice
+2022-02-10 14:53:31,394 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:53:36,897 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:53:41,328 - mystore -INFO - checkoutpage
+2022-02-10 14:53:41,384 - mystore -INFO - valiadte unitprice
+2022-02-10 14:53:41,433 - mystore -INFO - valiadte totalprice
+2022-02-10 14:53:41,434 - mystore -INFO - valiadte totalexpectedprice
+2022-02-10 14:57:02,339 - mystore -INFO - verifyTotalPrice
+2022-02-10 14:57:06,588 - mystore -INFO - clickoncheckoutpage
+2022-02-10 14:57:10,911 - mystore -INFO - checkoutpage
+2022-02-10 14:57:10,982 - mystore -INFO - valiadte unitprice
+2022-02-10 14:57:11,032 - mystore -INFO - valiadte totalprice
+2022-02-10 14:57:11,032 - mystore -INFO - valiadte totalexpectedprice
+2022-02-10 14:57:11,035 - mystore -INFO - verifyiedTotalPrice
+2022-02-10 15:41:38,558 - mystore -INFO - endToEndTesting start
+2022-02-10 15:41:38,862 - mystore -INFO - index page start
+2022-02-10 15:41:39,002 - mystore -INFO - search product 
+2022-02-10 15:41:39,957 - mystore -INFO - searchresult
+2022-02-10 15:41:44,316 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 15:41:44,491 - mystore -INFO - addToCartPage enter size
+2022-02-10 15:41:44,644 - mystore -INFO - click on addToCartPage
+2022-02-10 15:41:44,783 - mystore -INFO - addToCartPage checkout
+2022-02-10 15:41:51,729 - mystore -INFO - user login
+2022-02-10 15:41:56,179 - mystore -INFO - address page
+2022-02-10 15:41:56,497 - mystore -INFO - Entered username
+2022-02-10 15:41:56,685 - mystore -INFO - Entered password
+2022-02-10 15:42:00,329 - mystore -INFO - shipping page
+2022-02-10 15:53:16,688 - mystore -INFO - endToEndTesting start
+2022-02-10 15:53:16,694 - mystore -INFO - index page start
+2022-02-10 15:53:16,732 - mystore -INFO - search product 
+2022-02-10 15:53:16,915 - mystore -INFO - searchresult
+2022-02-10 15:53:20,389 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 15:53:20,559 - mystore -INFO - addToCartPage enter size
+2022-02-10 15:53:20,738 - mystore -INFO - click on addToCartPage
+2022-02-10 15:53:20,883 - mystore -INFO - addToCartPage checkout
+2022-02-10 15:53:25,455 - mystore -INFO - user login
+2022-02-10 15:53:29,061 - mystore -INFO - address page
+2022-02-10 15:55:45,318 - mystore -INFO - endToEndTesting start
+2022-02-10 15:55:45,323 - mystore -INFO - index page start
+2022-02-10 15:55:45,355 - mystore -INFO - search product 
+2022-02-10 15:55:45,503 - mystore -INFO - searchresult
+2022-02-10 15:55:50,311 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 15:55:50,486 - mystore -INFO - addToCartPage enter size
+2022-02-10 15:55:50,656 - mystore -INFO - click on addToCartPage
+2022-02-10 15:55:50,802 - mystore -INFO - addToCartPage checkout
+2022-02-10 15:55:55,531 - mystore -INFO - user login
+2022-02-10 15:56:00,557 - mystore -INFO - address page
+2022-02-10 15:56:00,833 - mystore -INFO - Entered username
+2022-02-10 15:56:01,008 - mystore -INFO - Entered password
+2022-02-10 15:56:03,943 - mystore -INFO - shipping page
+2022-02-10 15:57:25,887 - mystore -INFO - endToEndTesting start
+2022-02-10 15:57:25,892 - mystore -INFO - index page start
+2022-02-10 15:57:25,918 - mystore -INFO - search product 
+2022-02-10 15:57:26,080 - mystore -INFO - searchresult
+2022-02-10 15:57:29,070 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 15:57:29,202 - mystore -INFO - addToCartPage enter size
+2022-02-10 15:57:29,406 - mystore -INFO - click on addToCartPage
+2022-02-10 15:57:29,597 - mystore -INFO - addToCartPage checkout
+2022-02-10 15:57:34,414 - mystore -INFO - user login
+2022-02-10 15:57:38,595 - mystore -INFO - address page
+2022-02-10 15:57:38,887 - mystore -INFO - Entered username
+2022-02-10 15:57:39,026 - mystore -INFO - Entered password
+2022-02-10 16:03:59,408 - mystore -INFO - endToEndTesting start
+2022-02-10 16:03:59,416 - mystore -INFO - index page start
+2022-02-10 16:03:59,444 - mystore -INFO - user login
+2022-02-10 16:05:50,990 - mystore -INFO - endToEndTesting start
+2022-02-10 16:05:50,995 - mystore -INFO - index page start
+2022-02-10 16:05:51,021 - mystore -INFO - address page
+2022-02-10 16:07:57,496 - mystore -INFO - endToEndTesting start
+2022-02-10 16:07:57,502 - mystore -INFO - index page start
+2022-02-10 16:07:57,535 - mystore -INFO - search product 
+2022-02-10 16:07:57,688 - mystore -INFO - searchresult
+2022-02-10 16:08:00,867 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:08:01,019 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:08:01,158 - mystore -INFO - click on addToCartPage
+2022-02-10 16:08:01,261 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:08:05,733 - mystore -INFO - user login
+2022-02-10 16:08:08,785 - mystore -INFO - address page
+2022-02-10 16:13:17,322 - mystore -INFO - endToEndTesting start
+2022-02-10 16:13:17,326 - mystore -INFO - index page start
+2022-02-10 16:13:17,360 - mystore -INFO - search product 
+2022-02-10 16:13:18,795 - mystore -INFO - searchresult
+2022-02-10 16:13:25,435 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:13:25,569 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:13:25,778 - mystore -INFO - click on addToCartPage
+2022-02-10 16:13:25,893 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:13:30,268 - mystore -INFO - user login
+2022-02-10 16:13:33,682 - mystore -INFO - address page
+2022-02-10 16:18:12,247 - mystore -INFO - endToEndTesting start
+2022-02-10 16:18:12,256 - mystore -INFO - index page start
+2022-02-10 16:18:12,295 - mystore -INFO - search product 
+2022-02-10 16:18:12,465 - mystore -INFO - searchresult
+2022-02-10 16:18:15,477 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:18:15,630 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:18:15,789 - mystore -INFO - click on addToCartPage
+2022-02-10 16:18:15,898 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:18:20,787 - mystore -INFO - user login
+2022-02-10 16:18:23,743 - mystore -INFO - address page
+2022-02-10 16:21:02,314 - mystore -INFO - endToEndTesting start
+2022-02-10 16:21:02,321 - mystore -INFO - index page start
+2022-02-10 16:21:02,383 - mystore -INFO - search product 
+2022-02-10 16:21:02,564 - mystore -INFO - searchresult
+2022-02-10 16:21:05,635 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:21:05,767 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:21:05,899 - mystore -INFO - click on addToCartPage
+2022-02-10 16:21:06,034 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:21:10,463 - mystore -INFO - user login
+2022-02-10 16:21:13,431 - mystore -INFO - address page
+2022-02-10 16:22:30,360 - mystore -INFO - endToEndTesting start
+2022-02-10 16:22:30,365 - mystore -INFO - index page start
+2022-02-10 16:22:30,403 - mystore -INFO - search product 
+2022-02-10 16:22:30,580 - mystore -INFO - searchresult
+2022-02-10 16:22:34,610 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:22:34,825 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:22:34,991 - mystore -INFO - click on addToCartPage
+2022-02-10 16:22:35,122 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:22:39,748 - mystore -INFO - user login
+2022-02-10 16:22:44,047 - mystore -INFO - address page
+2022-02-10 16:30:19,545 - mystore -INFO - endToEndTesting start
+2022-02-10 16:30:19,551 - mystore -INFO - index page start
+2022-02-10 16:30:19,596 - mystore -INFO - search product 
+2022-02-10 16:30:19,774 - mystore -INFO - searchresult
+2022-02-10 16:30:23,654 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:30:23,803 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:30:23,973 - mystore -INFO - click on addToCartPage
+2022-02-10 16:30:24,072 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:30:28,885 - mystore -INFO - user login
+2022-02-10 16:30:32,925 - mystore -INFO - address page
+2022-02-10 16:30:36,394 - mystore -INFO - shipping page
+2022-02-10 16:30:38,033 - mystore -INFO - payment page
+2022-02-10 16:30:39,584 - mystore -INFO - order summary page
+2022-02-10 16:30:40,706 - mystore -INFO - orderConfirmationPage
+2022-02-10 16:30:43,445 - mystore -INFO - validated
+2022-02-10 16:30:43,446 - mystore -INFO - endToEndTesting ends
+2022-02-10 16:32:16,424 - mystore -INFO - endToEndTesting start
+2022-02-10 16:32:16,432 - mystore -INFO - index page start
+2022-02-10 16:32:16,485 - mystore -INFO - search product 
+2022-02-10 16:32:16,670 - mystore -INFO - searchresult
+2022-02-10 16:32:20,163 - mystore -INFO - addToCartPage enter quantity
+2022-02-10 16:32:20,330 - mystore -INFO - addToCartPage enter size
+2022-02-10 16:32:20,597 - mystore -INFO - click on addToCartPage
+2022-02-10 16:32:20,835 - mystore -INFO - addToCartPage checkout
+2022-02-10 16:32:25,250 - mystore -INFO - user login
+2022-02-10 16:32:28,249 - mystore -INFO - address page
+2022-02-10 16:32:31,715 - mystore -INFO - shipping page
+2022-02-10 16:32:33,478 - mystore -INFO - payment page
+2022-02-10 16:32:35,340 - mystore -INFO - order summary page
+2022-02-10 16:32:37,274 - mystore -INFO - orderConfirmationPage
+2022-02-10 16:32:39,857 - mystore -INFO - validated
+2022-02-10 16:32:39,857 - mystore -INFO - endToEndTesting ends

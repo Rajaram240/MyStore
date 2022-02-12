@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40221" started-at="2022-02-10T11:01:59Z" finished-at="2022-02-10T11:02:39Z">
+    <groups>
+      <group name="Regression">
+        <method signature="EndToEndTest.endToEndTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="endToEndTest" class="com.Training.testcases.EndToEndTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Test_All" duration-ms="40221" started-at="2022-02-10T11:01:59Z" finished-at="2022-02-10T11:02:39Z">
+      <class name="com.Training.testcases.EndToEndTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="setup" is-config="true" duration-ms="14753" started-at="2022-02-10T11:02:00Z" finished-at="2022-02-10T11:02:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="endToEndTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="endToEndTest" duration-ms="23445" started-at="2022-02-10T11:02:16Z" data-provider="getProduct" finished-at="2022-02-10T11:02:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[t-shirt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+      </class> <!-- com.Training.testcases.EndToEndTest -->
+    </test> <!-- Test_All -->
+  </suite> <!-- Suite -->
+</testng-results>
