@@ -80,7 +80,7 @@ public class DataProviders {
 			Object[][] data = new Object[actRows][1];
 			
 			for (int i = 0; i < actRows; i++) {
-				Map<String, String> hashMap = new HashMap<>();
+				Map<String, String> hashMap = new HashMap<String, String>();
 				for (int j = 0; j < column; j++) {
 					hashMap.put(obj.getCellData("AccountCreationData", j, 1),
 							obj.getCellData("AccountCreationData", j, i + 1));

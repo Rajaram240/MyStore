@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40221" started-at="2022-02-10T11:01:59Z" finished-at="2022-02-10T11:02:39Z">
+  <suite name="Suite" duration-ms="57132" started-at="2022-02-16T22:01:27 IST" finished-at="2022-02-16T22:02:24 IST">
     <groups>
       <group name="Regression">
-        <method signature="EndToEndTest.endToEndTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="endToEndTest" class="com.Training.testcases.EndToEndTest"/>
+        <method signature="EndToEndTest.endToEndTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2f8f5f62]" name="endToEndTest" class="com.Training.testcases.EndToEndTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test name="Test_All" duration-ms="40221" started-at="2022-02-10T11:01:59Z" finished-at="2022-02-10T11:02:39Z">
+    <test name="Test_All" duration-ms="57132" started-at="2022-02-16T22:01:27 IST" finished-at="2022-02-16T22:02:24 IST">
       <class name="com.Training.testcases.EndToEndTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="setup" is-config="true" duration-ms="14753" started-at="2022-02-10T11:02:00Z" finished-at="2022-02-10T11:02:15Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2f8f5f62]" name="setup" is-config="true" duration-ms="25431" started-at="2022-02-16T22:01:27 IST" finished-at="2022-02-16T22:01:53 IST">
           <params>
             <param index="0">
               <value>
@@ -21,7 +21,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="endToEndTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2b2948e2]" name="endToEndTest" duration-ms="23445" started-at="2022-02-10T11:02:16Z" data-provider="getProduct" finished-at="2022-02-10T11:02:39Z">
+        <test-method status="PASS" signature="endToEndTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Training.testcases.EndToEndTest@2f8f5f62]" name="endToEndTest" duration-ms="28741" started-at="2022-02-16T22:01:54 IST" data-provider="getProduct" finished-at="2022-02-16T22:02:23 IST">
           <params>
             <param index="0">
               <value>
@@ -42,6 +42,10 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endToEndTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Training.testcases.EndToEndTest@2f8f5f62]" name="tearDown" is-config="true" duration-ms="1070" started-at="2022-02-16T22:02:23 IST" finished-at="2022-02-16T22:02:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- com.Training.testcases.EndToEndTest -->
     </test> <!-- Test_All -->
   </suite> <!-- Suite -->

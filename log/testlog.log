@@ -299,3 +299,38 @@
 2022-02-10 16:32:37,274 - mystore -INFO - orderConfirmationPage
 2022-02-10 16:32:39,857 - mystore -INFO - validated
 2022-02-10 16:32:39,857 - mystore -INFO - endToEndTesting ends
+2022-02-16 21:56:28,999 - ebanking -INFO - endToEndTesting start
+2022-02-16 21:56:29,050 - ebanking -INFO - index page start
+2022-02-16 21:56:29,145 - ebanking -INFO - search product 
+2022-02-16 21:56:29,410 - ebanking -INFO - searchresult
+2022-02-16 21:56:33,971 - ebanking -INFO - addToCartPage enter quantity
+2022-02-16 21:56:34,123 - ebanking -INFO - addToCartPage enter size
+2022-02-16 21:56:34,319 - ebanking -INFO - click on addToCartPage
+2022-02-16 21:56:34,515 - ebanking -INFO - addToCartPage checkout
+2022-02-16 21:56:41,097 - ebanking -INFO - user login
+2022-02-16 21:56:46,338 - ebanking -INFO - address page
+2022-02-16 21:56:50,817 - ebanking -INFO - shipping page
+2022-02-16 21:56:52,831 - ebanking -INFO - payment page
+2022-02-16 21:56:55,379 - ebanking -INFO - order summary page
+2022-02-16 21:56:56,609 - ebanking -INFO - orderConfirmationPage
+2022-02-16 21:57:02,816 - ebanking -INFO - validated
+2022-02-16 21:57:02,817 - ebanking -INFO - endToEndTesting ends
+2022-02-16 21:59:02,866 - ebanking -INFO - endToEndTesting start
+2022-02-16 21:59:02,875 - ebanking -INFO - index page start
+2022-02-16 21:59:02,912 - ebanking -INFO - search product 
+2022-02-16 22:01:54,306 - ebanking -INFO - endToEndTesting start
+2022-02-16 22:01:54,313 - ebanking -INFO - index page start
+2022-02-16 22:01:54,346 - ebanking -INFO - search product 
+2022-02-16 22:01:54,691 - ebanking -INFO - searchresult
+2022-02-16 22:01:58,564 - ebanking -INFO - addToCartPage enter quantity
+2022-02-16 22:01:58,700 - ebanking -INFO - addToCartPage enter size
+2022-02-16 22:01:58,834 - ebanking -INFO - click on addToCartPage
+2022-02-16 22:01:58,944 - ebanking -INFO - addToCartPage checkout
+2022-02-16 22:02:03,868 - ebanking -INFO - user login
+2022-02-16 22:02:07,865 - ebanking -INFO - address page
+2022-02-16 22:02:10,785 - ebanking -INFO - shipping page
+2022-02-16 22:02:12,827 - ebanking -INFO - payment page
+2022-02-16 22:02:14,940 - ebanking -INFO - order summary page
+2022-02-16 22:02:17,448 - ebanking -INFO - orderConfirmationPage
+2022-02-16 22:02:23,037 - ebanking -INFO - validated
+2022-02-16 22:02:23,037 - ebanking -INFO - endToEndTesting ends
