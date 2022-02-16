@@ -1,4 +1,0 @@
-# Created at 2022-02-16T16:49:01.936
-Boot Manifest-JAR contains absolute paths in classpath 'F:\MONU PROJECT\ECLIPSE\Training\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-

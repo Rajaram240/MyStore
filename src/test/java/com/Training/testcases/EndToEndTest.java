@@ -1,6 +1,7 @@
 package com.Training.testcases;
 
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -45,15 +46,17 @@ public class EndToEndTest extends BaseClass {
 		logger.info("click on addToCartPage");
 		addToCartPage.clickOnAddToCart();
 		logger.info("addToCartPage checkout");
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		orderPage=addToCartPage.clickOnCheckOut();
 		logger.info("user login");
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		loginPage=orderPage.clickOnCheckOut();
 		logger.info("address page");
-		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			addressPage=	loginPage.setUserName(username);
 				loginPage.setPassword(password);
 				loginPage.clickSubmit();
-		
+				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		logger.info("shipping page");
 		shippingPage=addressPage.clickOnCheckOut();
 		shippingPage.checkTheTerms();

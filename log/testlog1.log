@@ -334,3 +334,97 @@
 2022-02-16 22:02:17,448 [main] INFO ebanking - orderConfirmationPage
 2022-02-16 22:02:23,037 [main] INFO ebanking - validated
 2022-02-16 22:02:23,037 [main] INFO ebanking - endToEndTesting ends
+2022-02-16 22:27:38,535 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:27:38,793 [main] INFO ebanking - index page start
+2022-02-16 22:27:38,904 [main] INFO ebanking - search product 
+2022-02-16 22:27:39,105 [main] INFO ebanking - searchresult
+2022-02-16 22:27:46,389 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:27:46,575 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:27:46,749 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:27:46,905 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:27:51,859 [main] INFO ebanking - user login
+2022-02-16 22:31:34,777 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:31:34,861 [main] INFO ebanking - index page start
+2022-02-16 22:31:34,919 [main] INFO ebanking - search product 
+2022-02-16 22:31:35,105 [main] INFO ebanking - searchresult
+2022-02-16 22:31:39,174 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:31:39,283 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:31:39,418 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:31:39,526 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:31:43,773 [main] INFO ebanking - user login
+2022-02-16 22:31:46,903 [main] INFO ebanking - address page
+2022-02-16 22:31:49,547 [main] INFO ebanking - shipping page
+2022-02-16 22:31:51,480 [main] INFO ebanking - payment page
+2022-02-16 22:31:54,306 [main] INFO ebanking - order summary page
+2022-02-16 22:31:55,520 [main] INFO ebanking - orderConfirmationPage
+2022-02-16 22:31:59,482 [main] INFO ebanking - validated
+2022-02-16 22:31:59,483 [main] INFO ebanking - endToEndTesting ends
+2022-02-16 22:39:30,642 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:39:30,649 [main] INFO ebanking - index page start
+2022-02-16 22:39:30,688 [main] INFO ebanking - search product 
+2022-02-16 22:39:30,833 [main] INFO ebanking - searchresult
+2022-02-16 22:39:34,293 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:39:34,421 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:39:34,555 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:39:34,674 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:39:39,087 [main] INFO ebanking - user login
+2022-02-16 22:41:11,944 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:41:11,951 [main] INFO ebanking - index page start
+2022-02-16 22:41:11,991 [main] INFO ebanking - search product 
+2022-02-16 22:41:12,132 [main] INFO ebanking - searchresult
+2022-02-16 22:41:15,228 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:41:15,350 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:41:15,498 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:41:15,606 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:41:19,489 [main] INFO ebanking - user login
+2022-02-16 22:41:24,285 [main] INFO ebanking - address page
+2022-02-16 22:41:27,636 [main] INFO ebanking - shipping page
+2022-02-16 22:41:29,293 [main] INFO ebanking - payment page
+2022-02-16 22:41:32,420 [main] INFO ebanking - order summary page
+2022-02-16 22:41:34,300 [main] INFO ebanking - orderConfirmationPage
+2022-02-16 22:41:39,758 [main] INFO ebanking - validated
+2022-02-16 22:41:39,759 [main] INFO ebanking - endToEndTesting ends
+2022-02-16 22:48:41,059 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:48:41,139 [main] INFO ebanking - index page start
+2022-02-16 22:48:41,252 [main] INFO ebanking - search product 
+2022-02-16 22:48:41,417 [main] INFO ebanking - searchresult
+2022-02-16 22:48:55,861 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:48:55,989 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:48:56,129 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:48:56,273 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:49:15,439 [main] INFO ebanking - user login
+2022-02-16 22:50:10,355 [main] INFO ebanking - endToEndTesting start
+2022-02-16 22:50:10,363 [main] INFO ebanking - index page start
+2022-02-16 22:50:10,413 [main] INFO ebanking - search product 
+2022-02-16 22:50:10,567 [main] INFO ebanking - searchresult
+2022-02-16 22:50:14,162 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 22:50:14,266 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 22:50:14,394 [main] INFO ebanking - click on addToCartPage
+2022-02-16 22:50:14,499 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 22:50:19,856 [main] INFO ebanking - user login
+2022-02-16 22:50:28,620 [main] INFO ebanking - address page
+2022-02-16 22:50:32,096 [main] INFO ebanking - shipping page
+2022-02-16 22:50:35,567 [main] INFO ebanking - payment page
+2022-02-16 22:50:37,335 [main] INFO ebanking - order summary page
+2022-02-16 22:50:38,620 [main] INFO ebanking - orderConfirmationPage
+2022-02-16 22:50:42,463 [main] INFO ebanking - validated
+2022-02-16 22:50:42,464 [main] INFO ebanking - endToEndTesting ends
+2022-02-16 23:21:03,732 [main] INFO ebanking - endToEndTesting start
+2022-02-16 23:21:03,861 [main] INFO ebanking - index page start
+2022-02-16 23:21:04,029 [main] INFO ebanking - search product 
+2022-02-16 23:21:04,229 [main] INFO ebanking - searchresult
+2022-02-16 23:21:07,697 [main] INFO ebanking - addToCartPage enter quantity
+2022-02-16 23:21:07,820 [main] INFO ebanking - addToCartPage enter size
+2022-02-16 23:21:07,981 [main] INFO ebanking - click on addToCartPage
+2022-02-16 23:21:08,111 [main] INFO ebanking - addToCartPage checkout
+2022-02-16 23:21:12,352 [main] INFO ebanking - user login
+2022-02-16 23:21:16,519 [main] INFO ebanking - address page
+2022-02-16 23:21:19,044 [main] INFO ebanking - shipping page
+2022-02-16 23:21:20,919 [main] INFO ebanking - payment page
+2022-02-16 23:21:23,065 [main] INFO ebanking - order summary page
+2022-02-16 23:21:24,380 [main] INFO ebanking - orderConfirmationPage
+2022-02-16 23:21:27,614 [main] INFO ebanking - validated
+2022-02-16 23:21:27,615 [main] INFO ebanking - endToEndTesting ends
+2022-02-16 23:34:15,154 [main] INFO ebanking - endToEndTesting start
+2022-02-16 23:34:15,169 [main] INFO ebanking - index page start
+2022-02-16 23:34:15,238 [main] INFO ebanking - search product 
